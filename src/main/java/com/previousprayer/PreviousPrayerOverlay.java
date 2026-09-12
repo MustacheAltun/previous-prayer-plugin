@@ -1,4 +1,4 @@
-package com.example;
+package com.previousprayer;
 
 import net.runelite.api.HeadIcon;
 import net.runelite.api.SpriteID;
