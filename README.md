@@ -41,8 +41,4 @@ This plugin strictly adheres to:
 
 It provides **no automated inputs**, does **not predict opponent or boss actions**, and only reads local player prayer states already exposed by the official client API.
 
----
 
-## License
-
-This project is licensed under the BSD 2-Clause License. See the [LICENSE](LICENSE) file for details.
